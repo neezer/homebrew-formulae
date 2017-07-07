@@ -4,6 +4,9 @@ class Peon < Formula
   url "https://github.com/neezer/peon/archive/v0.0.1.tar.gz"
   sha256 ""
 
+  depends_on "gawk" => :run
+  depends_on "tinge" => :run
+
   def install
     bin.install "peon"
   end
