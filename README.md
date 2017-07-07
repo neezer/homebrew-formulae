@@ -13,9 +13,11 @@ Tap this repository:
 Install the packages it contains like any other Homebrew package:
 
     brew install tinge
+    brew install peon
 
 ## Contributing
 
 Submit pull requests against the respective repos:
 
 * [tinge](https://github.com/neezer/tinge)
+* [peon](https://github.com/neezer/peon)
