@@ -1,8 +1,8 @@
-class Tinge < Formula
+class Tinge <8787ff6f0e44 Formula
   desc "Small helper for colorizing output with ANSI escape sequences"
   homepage "https://github.com/neezer/tinge"
   url "https://github.com/neezer/tinge/archive/v0.0.2.tar.gz"
-  sha256 "e3382cdec7793b8113804e74d49b529aef8f0837cf086582890c18533af109d0"
+  sha256 "7fd704db9e5ef0b99b9e268321dff0b37591c96452a6bcf7cf5a8787ff6f0e44"
 
   def install
     bin.install "tinge"
