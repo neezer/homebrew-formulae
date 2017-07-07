@@ -1,4 +1,4 @@
-class Tinge <8787ff6f0e44 Formula
+class Tinge < Formula
   desc "Small helper for colorizing output with ANSI escape sequences"
   homepage "https://github.com/neezer/tinge"
   url "https://github.com/neezer/tinge/archive/v0.0.2.tar.gz"
