@@ -5,7 +5,9 @@ class Tinge < Formula
   sha256 "4411b19e04947209a2d4205eff2f1615754b5319"
   depends_on "gawk" => :run
 
-  bin.install "tinge"
+  def install
+    bin.install "tinge"
+  end
 
   test do
     system "#{bin}/tinge --help"
