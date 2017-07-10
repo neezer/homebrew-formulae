@@ -2,7 +2,7 @@ class Peon < Formula
   desc "Bash command runner"
   homepage "https://github.com/neezer/peon"
   url "https://github.com/neezer/peon/archive/v0.1.1.tar.gz"
-  sha256 "d1b1315fde575a0f681067333060955b8dba06e6ec5147de85ded0e474646f42"
+  sha256 "8528a7b3d3ce45633d874e292f8ccce20300839cc97e03bddffdbb2c8fb571b4"
 
   depends_on "gawk" => :run
   depends_on "tinge" => :run
